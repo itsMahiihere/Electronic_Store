@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\MINIPROJECT\\Mini_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|e:\\.net\\miniproject\\mini_project\\mini_project\\mini_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BAD7A66-639F-4A48-A9F5-2E2F94157F42}|Mini_Project\\Mini_Project.csproj|solutionrelative:mini_project\\mini_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Program.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Program.cs",
+              "RelativeToolTip": "Mini_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:01.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Mini_Project\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:14:44.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Models\\UserLogin.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Mini_Project\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:30:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Service\\ProductService.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Service\\ProductService.cs",
+              "RelativeToolTip": "Mini_Project\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:32:05.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Models\\Product.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Models\\Product.cs",
+              "RelativeToolTip": "Mini_Project\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:32:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Repository\\AppDbContext.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "Mini_Project\\Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:50:22.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Service\\IProductService.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Service\\IProductService.cs",
+              "RelativeToolTip": "Mini_Project\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:30:04.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mini_Project\\appsettings.Development.json",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\appsettings.Development.json",
+              "RelativeToolTip": "Mini_Project\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T13:54:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mini_Project\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:18:10.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Service\\TokenService.cs",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Service\\TokenService.cs",
+              "RelativeToolTip": "Mini_Project\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:15:43.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Mini_Project\\appsettings.json",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\appsettings.json",
+              "RelativeToolTip": "Mini_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T13:56:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mini_Project.csproj",
+              "DocumentMoniker": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Mini_Project.csproj",
+              "RelativeDocumentMoniker": "Mini_Project\\Mini_Project.csproj",
+              "ToolTip": "E:\\.Net\\MINIPROJECT\\Mini_Project\\Mini_Project\\Mini_Project.csproj",
+              "RelativeToolTip": "Mini_Project\\Mini_Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T13:29:45.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
